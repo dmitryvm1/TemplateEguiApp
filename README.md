@@ -1,0 +1,1 @@
+Boilerplate code for creating apps with Rust and egui.
